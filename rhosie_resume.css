@@ -1,0 +1,58 @@
+html{
+    background-color: floralwhite;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 1% 5%;
+}
+
+h3{
+    font-style: italic;
+    font-size: 15pt;
+    color:rgb(92, 92, 92);
+    margin-bottom: -5px;
+}
+
+.skill-set li{
+    background:rgba(122, 13, 13, 0.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:10px 10px 0 0;
+	padding:5px;
+	text-align:justify;
+}
+
+.header h2{
+    font-weight: bold;
+    font-size: 23pt;
+    margin-bottom: -20px;
+}
+
+.header h3{
+        font-style: italic;
+        font-size: 15pt;
+        color:rgb(92, 92, 92);
+        margin-bottom: 0;
+}
+
+.header p{
+    text-align: justify;
+}
+
+.work p{
+    font-weight: bold;
+}
+
+.work ul{
+    margin-top: -10px;
+}
+
+.jobs dt{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.jobs img{
+    width: 25;
+    height: 25;
+}
