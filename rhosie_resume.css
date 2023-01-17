@@ -11,18 +11,7 @@ h3{
     margin-bottom: -5px;
 }
 
-.skill-set li{
-    background:rgba(122, 13, 13, 0.75);
-	border-radius:5px;
-	color:#FFF;
-	display:inline-block;
-	list-style:none;
-	margin:10px 10px 0 0;
-	padding:5px;
-	text-align:justify;
-}
-
-.header h2{
+.header h1{
     font-weight: bold;
     font-size: 23pt;
     margin-bottom: -20px;
@@ -39,12 +28,35 @@ h3{
     text-align: justify;
 }
 
-.work p{
-    font-weight: bold;
+.header div{
+    float: left;
+    
 }
 
-.work ul{
-    margin-top: -10px;
+.contacts{
+    float: right;
+    margin-left: 20px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.fit-picture{
+    width:100;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .gnb{
@@ -94,4 +106,23 @@ h3{
 ul h4{
     margin:0;
     font-size: 17;
+}
+
+.skill-set li{
+    background:rgba(122, 13, 13, 0.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:10px 10px 0 0;
+	padding:5px;
+	text-align:justify;
+}
+
+.work p{
+    font-weight: bold;
+}
+
+.work ul{
+    margin-top: -10px;
 }
