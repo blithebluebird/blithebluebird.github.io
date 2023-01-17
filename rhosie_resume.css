@@ -47,12 +47,51 @@ h3{
     margin-top: -10px;
 }
 
-.jobs dt{
-    font-weight: bold;
-    margin-bottom: 3px;
+.gnb{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/8/fc5PYpEFGrg4qPYDq_YBbCy1X0.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
 }
 
-.jobs img{
-    width: 25;
-    height: 25;
+.sch{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/s/2r8fm3U0Io7Pw1XT1tvnjPthp4.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+.dnc{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/0/ZzzbixB1HHW9FaxNXdfY7Y7lvw.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+.smn{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/b/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+ul h4{
+    margin:0;
+    font-size: 17;
 }
