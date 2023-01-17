@@ -1,0 +1,97 @@
+html{
+    background-color: floralwhite;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 1% 5%;
+}
+
+h3{
+    font-style: italic;
+    font-size: 15pt;
+    color:rgb(92, 92, 92);
+    margin-bottom: -5px;
+}
+
+.skill-set li{
+    background:rgba(122, 13, 13, 0.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:10px 10px 0 0;
+	padding:5px;
+	text-align:justify;
+}
+
+.header h2{
+    font-weight: bold;
+    font-size: 23pt;
+    margin-bottom: -20px;
+}
+
+.header h3{
+        font-style: italic;
+        font-size: 15pt;
+        color:rgb(92, 92, 92);
+        margin-bottom: 0;
+}
+
+.header p{
+    text-align: justify;
+}
+
+.work p{
+    font-weight: bold;
+}
+
+.work ul{
+    margin-top: -10px;
+}
+
+.gnb{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/8/fc5PYpEFGrg4qPYDq_YBbCy1X0.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+.sch{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/s/2r8fm3U0Io7Pw1XT1tvnjPthp4.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+.dnc{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/0/ZzzbixB1HHW9FaxNXdfY7Y7lvw.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+.smn{
+    margin-left: 40px;
+    padding:15px 0 15px 40px;
+    list-style: none;
+    background-image: url('https://img.finalfantasyxiv.com/lds/promo/h/b/ZwJFxv3XnfqB5N6tKbgXKnj6BU.png');
+    background-repeat:no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 15;
+}
+
+ul h4{
+    margin:0;
+    font-size: 17;
+}
